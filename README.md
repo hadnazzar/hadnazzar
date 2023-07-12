@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Hadnazzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadnazzar&show_icons=true&theme=radical&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hadnazzar&theme=radical)](https://git.io/streak-stats)
+
 <!--
 **hadnazzar/hadnazzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
