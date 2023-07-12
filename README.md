@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there I am Melih 👋
+
+## You can read my blog through https://melihyumak.medium.com/
 
 ![Hadnazzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadnazzar&show_icons=true&theme=radical&count_private=true)
 
